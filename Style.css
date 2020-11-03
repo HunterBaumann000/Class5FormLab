@@ -1,0 +1,21 @@
+table{
+    margin: 20px;
+}
+
+th{
+    padding-left: 50px;
+}
+
+td{
+    padding-left: 50px;
+}
+
+#Qty1{
+    height:20px;
+    width:40px;
+}
+
+#Qty2{
+    height:20px;
+    width:40px;;
+}
